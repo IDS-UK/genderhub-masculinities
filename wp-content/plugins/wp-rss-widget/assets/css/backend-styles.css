@@ -1,0 +1,29 @@
+/**
+ * ADMIN STYLES
+ */
+.wprss_w_settings h4{
+	border-bottom: 1px solid #DFDFDF;
+	margin: 20px -11px 10px -11px;
+	padding: 5px 11px 5px 11px;
+	border-top: 1px solid #DFDFDF;
+	background-color: #fff;
+	background-image: -ms-linear-gradient(top,#fff,#f9f9f9);
+	background-image: -moz-linear-gradient(top,#fff,#f9f9f9);
+	background-image: -webkit-linear-gradient(top,#fff,#f9f9f9);
+	background-image: linear-gradient(top,#fff,#f9f9f9);
+}
+.wprss_w_smalltext{
+	font-size: 11px;
+	color: #666666;
+}
+.wprss_w_note{
+	border: 1px solid #FFD893;
+	padding: 5px;
+	background: #FFFEDA;
+	margin: 10px 0 0;
+	display: block;
+}
+
+.wprss-w-disabled {
+	color: #aaa;
+}

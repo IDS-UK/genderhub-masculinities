@@ -1,0 +1,11 @@
+1.1.1 (2016-08-01)
+Changed copyright and other info in plugin header.
+
+1.1 (2015-12-30)
+Enhanced: Major licensing system improvements.
+
+1.0.1 (2015-11-05)
+Enhanced: Added OO updater and autoloader.
+
+1.0 (2015-09-23)
+First Release

@@ -1,0 +1,84 @@
+# Translation of Plugins - WP Mail From II - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - WP Mail From II - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 03:28:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - WP Mail From II - Stable (latest release)\n"
+
+#: admin/class-wp-mailfrom-ii-admin.php:231
+msgid "http://wordpress.org/support/plugin/wp-mailfrom-ii"
+msgstr "http://wordpress.org/support/plugin/wp-mailfrom-ii"
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/benhuson/"
+msgstr "https://github.com/benhuson/"
+
+#: admin/class-wp-mailfrom-ii-admin.php:231
+msgid "Support"
+msgstr "Support"
+
+#: admin/class-wp-mailfrom-ii-admin.php:230
+msgid "GitHub"
+msgstr "GitHub"
+
+#: admin/class-wp-mailfrom-ii-admin.php:209
+msgid "Settings"
+msgstr "Settings"
+
+#: admin/class-wp-mailfrom-ii-admin.php:198
+msgid "Admin Email"
+msgstr "Admin Email"
+
+#: admin/class-wp-mailfrom-ii-admin.php:197
+msgid "Default WordPress Email"
+msgstr "Default WordPress Email"
+
+#: admin/class-wp-mailfrom-ii-admin.php:168
+msgid "If set, these two options will override the default name and email address in the &quot;From&quot; header on emails sent by WordPress."
+msgstr "If set, these two options will override the default name and email address in the &quot;From&quot; header on emails sent by WordPress."
+
+#: admin/class-wp-mailfrom-ii-admin.php:137
+msgid "Override Emails From"
+msgstr "Override Emails From"
+
+#. Author of the plugin/theme
+msgid "Ben Huson"
+msgstr "Ben Huson"
+
+#. Description of the plugin/theme
+msgid "Allows you to configure the default email address and name used for emails sent by WordPress."
+msgstr "Allows you to configure the default email address and name used for emails sent by WordPress."
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/wp-mailfrom-ii/"
+msgstr "http://en-gb.wordpress.org/plugins/wp-mailfrom-ii/"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Mail From II"
+msgstr "WP Mail From II"
+
+#: admin/class-wp-mailfrom-ii-admin.php:130
+msgid "From Email Address"
+msgstr "From Email Address"
+
+#: admin/class-wp-mailfrom-ii-admin.php:123
+msgid "From Name"
+msgstr "From Name"
+
+#: admin/views/admin.php:22
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: admin/class-wp-mailfrom-ii-admin.php:93
+msgid "Mail From"
+msgstr "Mail From"
+
+#: admin/class-wp-mailfrom-ii-admin.php:92
+msgid "WP Mail From Plugin"
+msgstr "WP Mail From Plugin"

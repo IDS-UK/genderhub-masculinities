@@ -1,0 +1,73 @@
+/*
+Theme Name:     Voices For Change e-Learning theme
+ Theme URI:      http://www.elegantthemes.com/gallery/foxy/
+ Description:    Voices For Change e-Learning theme
+ Author:         umFundi ltd
+ Author URI:     http://www.umfundi.com
+ Template:       V4C
+ Version:        1.0.0
+*/
+
+@import url("../V4C/style.css");
+
+/* =Theme customization starts here ------------------------------------------------------- */
+
+/* Quotebox purple background left and right justified .... new feature */ 
+
+.quotebox {
+ padding:20px; 
+ background:#D3B6D7; 
+ color:#000; 
+ font-family:Arial; 
+ font-size:18px; 
+ border-radius:15px; 
+ max-width:100%; 
+ line-height:21px; 
+ position:relative; 
+ float:right; 
+} 
+
+.quotebox.rightarrow {
+ float:left; 
+}
+
+/* remove the grading disclaimer from essay questions */ 
+
+.graded-disclaimer {
+	display: none;	
+}
+
+.aligncenter {
+  clear: both;
+  display: block;
+  margin: 0 auto; 
+  width: 100%;
+  margin: 0 0 10px 0;
+  }
+
+iframe {
+   display: block;
+  margin: 0 auto; 
+}
+
+.wpProQuiz_response {
+display: none;
+}
+
+.widget-achievements-listing-item{
+padding:18px ! important;
+}
+
+.updated,.author{ 
+display:none; 
+}
+
+.row{
+width:100% ! important;
+}
+
+a.members-link {
+    pointer-events: none;
+    cursor: default;
+    background-color: #646e78!important;
+}

@@ -1,0 +1,37 @@
+[28-12-2016 03:24:57] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.genderhub.org/tag/gh_men_lesson2/feed/?post_type=ids_documents". cURL error 28: Operation timed out after 30000 milliseconds with 0 bytes received
+
+
+[30-03-2017 16:46:53] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.genderhub.org/tag/gh_men_lesson2/feed/?post_type=ids_documents". The resource could not be retrieved because of a server error with code 500
+Server returned 0 characters:
+
+
+[30-03-2017 16:46:53] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.genderhub.org/tag/gh_men_lesson1/feed/?post_type=ids_documents". The resource could not be retrieved because of a server error with code 500
+Server returned 0 characters:
+
+
+
+[30-03-2017 17:22:25] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.genderhub.org/tag/gh_men_lesson2/feed/?post_type=ids_documents". The resource could not be retrieved because of a server error with code 500
+Server returned 0 characters:
+
+
+[30-03-2017 17:22:25] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.genderhub.org/tag/gh_men_lesson1/feed/?post_type=ids_documents". The resource could not be retrieved because of a server error with code 500
+Server returned 0 characters:
+
+
+
+[30-03-2017 18:21:20] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.genderhub.org/tag/gh_men_lesson2/feed/?post_type=ids_documents". The resource could not be retrieved because of a server error with code 500
+Server returned 0 characters:
+
+
+[30-03-2017 18:21:20] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.genderhub.org/tag/gh_men_lesson1/feed/?post_type=ids_documents". The resource could not be retrieved because of a server error with code 500
+Server returned 0 characters:
+
+
+
